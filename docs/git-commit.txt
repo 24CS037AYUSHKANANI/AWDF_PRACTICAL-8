@@ -1,0 +1,5 @@
+Suggested Practical 8 commit:
+
+feat: optimize routes with React lazy loading
+
+The practical explicitly asks for at least one commit specifically for performance optimization.
